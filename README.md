@@ -47,4 +47,4 @@ npm run dev
 
 ## License
 
-![MIT](./LICENSE)
+[MIT](./LICENSE)
