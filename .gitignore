@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# lib dir in server dir will contain the compiled JS code 
+/server/lib
+
 # dependencies
 /node_modules
 /.pnp
